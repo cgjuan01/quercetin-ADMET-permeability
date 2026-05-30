@@ -50,7 +50,7 @@ python make_figure.py                # supplementary figure -> results/
 
 ## Key result
 
-The aglycone and isorhamnetin fall within the passive-permeation-favourable range
+The aglycone and isorhamnetin fall within the passive permeation favourable range
 (TPSA <= 140 A^2, cLogP >= 0; high predicted GI absorption), whereas the
 glucuronide, sulfate, and glucoside conjugates that predominate in plasma fall
 outside it (low predicted GI absorption; multiple Lipinski/Veber violations).
