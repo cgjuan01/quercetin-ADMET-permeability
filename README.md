@@ -20,7 +20,7 @@ mechanistically relevant species. It is supporting context for the experimental
 
 ## What it does
 
-`quercetin_permeability.py` computes physicochemical and passive-permeability
+`quercetin_permeability.py` computes physicochemical and passive permeability
 descriptors for quercetin and four circulating metabolites (quercetin-3-O-
 glucuronide, quercetin-3-O-sulfate, isorhamnetin, isoquercetin) using RDKit, and
 writes a descriptor table (CSV + Markdown). `make_figure.py` produces the
@@ -60,7 +60,7 @@ outside it (low predicted GI absorption; multiple Lipinski/Veber violations).
 These are in silico predictions interpreted as **relative** indicators across the
 metabolite series, not absolute permeability measures — tools trained largely on
 drug-like chemical space handle ionisable conjugates approximately. The defensible
-conclusion is the direction of the aglycone-vs-conjugate contrast. Even the
+conclusion is the direction of the aglycone vs conjugate contrast. Even the
 aglycone shows only moderate predicted permeability in absolute terms; the
 analysis explains a relative accessibility difference, consistent with the
 measured human data.
