@@ -16,7 +16,7 @@ This analysis accompanies the manuscript:
 It was added during manuscript **revision** to address a reviewer point on
 quercetin bioavailability and on why the measured aglycone fraction is the
 mechanistically relevant species. It is supporting context for the experimental
-(human, mass-spectrometry, imaging) data, not a standalone result.
+(human, mass-spectrometry, 3D imaging) data, not a standalone result.
 
 ## What it does
 
