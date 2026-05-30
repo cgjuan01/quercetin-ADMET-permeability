@@ -1,4 +1,4 @@
-# Quercetin permeability analysis (aglycone vs circulating metabolites)
+# Quercetin ADMET & permeability analysis: aglycone vs circulating metabolites
 
 In silico physicochemical and ADMET permeability comparison of **quercetin** and
 its major **circulating human metabolites**, supporting the interpretation that
